@@ -80,7 +80,7 @@ Here is how to use it.
 <img src="instruction.gif" width="100%">
 
 ## Thoughts on future work
-This work is still very much in progress, the hand controlled gestures is far from perfect. We are implementing several solutions for seamlessly controlling the unity game characeter with the detected hand gestures,
+This work is still very much in progress, the hand controlled gestures is far from perfect. We are implementing several solutions for seamlessly controlling the unity game character with the detected hand gestures,
 You can use this work as a start to test your projects.
 
 
