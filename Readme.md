@@ -77,12 +77,7 @@ For linking the predicted dectections with unity game engine, a TCP connection w
 
 Here is how to use it.
 
-<img src="images/hand1.gif" width="33.3%"><img src="images/hand2.gif" width="33.3%"><img src="images/hand3.gif" width="33.3%">
-Realtime detection on video stream from a webcam .
-
-<img src="images/chess1.gif" width="33.3%"><img src="images/chess2.gif" width="33.3%"><img src="images/chess3.gif" width="33.3%">
-Detection on a Youtube video.
-
+<img src="instruction.gif" width="100%">
 
 ## Thoughts on future work
 This work is still very much in progress, the hand controlled gestures is far from perfect. We are implementing several solutions for seamlessly controlling the unity game characeter with the detected hand gestures,
