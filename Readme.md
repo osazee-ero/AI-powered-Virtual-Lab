@@ -70,6 +70,7 @@ For linking the predicted dectections with unity game engine, a TCP connection w
 **Instructions**
 
 - clone the repo or download the zip file.
+- Place the 'ssd_mobilenet_v2_converted_from_tf.blob' model in your model folder in the depthAI python module.
 - Open Unity Game engine and navigate to the VirtualLab2 directory as project directory, then launch.
 - Plug in your OAK-D camera, then Run the python file modified_rgb_mobilenet.py to listen for connection from Unity.
 - Play the Unity game simulation, and click "Connect", wait for connection to be established.
