@@ -9,10 +9,8 @@ The goal of this repo/post was for submission to the [OpenCV Spatial AI competit
 
 Here is the current progress in action.
 
-<img src="hand_detection.gif" width="33.3%">
-Realtime detection on video stream from a OAK-D Camera .
-
-<img src="virtual_lab.gif" width="33.3%">
+<img src="hand_detection.gif" width="33.3%"><img src="virtual_lab.gif" width="33.3%">
+Realtime detection on video stream from a OAK-D Camera and Unity Game engine .
 
 
 **Content of this document**
