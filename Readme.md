@@ -9,11 +9,10 @@ The goal of this repo/post was for submission to the [OpenCV Spatial AI competit
 
 Here is the current progress in action.
 
-<img src="images/hand1.gif" width="33.3%"><img src="images/hand2.gif" width="33.3%"><img src="images/hand3.gif" width="33.3%">
-Realtime detection on video stream from a webcam .
+<img src="hand_detection.gif" width="33.3%">
+Realtime detection on video stream from a OAK-D Camera .
 
-<img src="images/chess1.gif" width="33.3%"><img src="images/chess2.gif" width="33.3%"><img src="images/chess3.gif" width="33.3%">
-Detection on a Youtube video.
+<img src="virtual_lab.gif" width="33.3%">
 
 
 **Content of this document**
