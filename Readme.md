@@ -51,7 +51,7 @@ If you will be using the Egohands dataset, you can cite them as follows:
 
 Tensorflow offers a variety of object detection models (in the tensorflow [model zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md#coco-trained-models-coco-models)) and we used the `ssd_mobilenet_v1_coco` model as the base model. 
 
-Once training is completed, the trained inference graph (`frozen_inference_graph.pb`) is then exported, and converted to a blob file that can be deployed and saved in the examples folder in `pythonSection\depthai-python\models` folder. 
+Once training is completed, the trained inference graph (`frozen_inference_graph.pb`) is then exported, and converted to a blob file that can be deployed and saved in the examples folder in `depthai-python\models` folder. 
 
 In order to convert your trained tensorflow model to blob file format representation, you can use this notebook (https://colab.research.google.com/drive/1Xip9MiWOJyemxyjMDURLXbeJgCzaYR1t)
 
