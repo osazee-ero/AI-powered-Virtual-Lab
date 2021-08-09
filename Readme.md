@@ -12,6 +12,7 @@ Here is the current progress in action.
 Realtime detection on video stream from a OAK-D Camera and Unity Game engine .
 
 <img src="hand_detection.gif" width="50%"><img src="virtual_lab.gif" width="50%">
+<img src="hardware.gif" width="50%"><img src="control.gif" width="50%">
 
 
 **Content of this document**
