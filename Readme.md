@@ -89,5 +89,5 @@ This work is still very much in progress, the hand controlled gestures is far fr
 You can use this work as a start to test your projects.
 
 
-Osazee Ero, Osezua Ibhadode:  HAND-CONTROLLED VIRTUAL LABORATORY USING OAK-D CAMERA, TENSORFLOW AND UNITY GAME ENGINE  https://github.com/victordibia/handtracking
+Osazee Ero, Osezua Ibhadode:  HAND-CONTROLLED VIRTUAL LABORATORY USING OAK-D CAMERA, TENSORFLOW AND UNITY GAME ENGINE  https://github.com/osazee-ero/AI-powered-Virtual-Lab
 
